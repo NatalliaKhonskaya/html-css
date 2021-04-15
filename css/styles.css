@@ -103,6 +103,42 @@ header {
     padding-bottom: 80px;
 }
 
+/* **************SKILLS***************** */
+.skills {
+    background-image: url(../images/skills_section.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 80px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.button1 {background-color: #c2798f;} 
+.button2 {background-color: #c2798f;}
+.button3 {background-color: #c2798f;}
+.button4 {background-color: #c2798f;}
+.button5 {background-color: #c2798f;}
+.button6 {background-color: #c2798f;}
+.button7 {background-color: #c2798f;}
+.button8 {background-color: #c2798f;}
+.button9 {background-color: #c2798f;}
+.button10 {background-color: #c2798f;}
+.button11 {background-color: #c2798f;}
+.button12 {background-color: #c2798f;}
+.button13 {background-color: #c2798f;}
+.button14 {background-color: #c2798f;}
+.button15 {background-color: #c2798f;}
+.button16 {background-color: #c2798f;}
 
 /* **************CONTACT INFO***************** */
 footer {
